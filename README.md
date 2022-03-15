@@ -6,6 +6,10 @@
 
 ### PART1 코어 자바스크립트
 
+#### 소개
+
+1. [자바스크립트란?](/part1/0101_an_introduction_to_javascript.md)
+
 ### PART2 브라우저: 문서, 이벤트, 인터페이스
 
 ### PART3 추가 주제
