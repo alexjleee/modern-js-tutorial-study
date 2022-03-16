@@ -10,6 +10,10 @@
 
 1. [자바스크립트란?](/part1/0101_an_introduction_to_javascript.md)
 
+#### 자바스크립트 기본
+
+1. [Hello, world!](/part1/0201_hello_world.md)
+
 ### PART2 브라우저: 문서, 이벤트, 인터페이스
 
 ### PART3 추가 주제
