@@ -13,6 +13,7 @@
 #### 자바스크립트 기본
 
 1. [Hello, world!](/part1/0201_hello_world.md)
+2. [코드 구조](/part1/0202_code_structure.md)
 
 ### PART2 브라우저: 문서, 이벤트, 인터페이스
 
