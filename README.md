@@ -14,6 +14,7 @@
 
 1. [Hello, world!](/part1/0201_hello_world.md)
 2. [코드 구조](/part1/0202_code_structure.md)
+3. [엄격 모드](/part1/0203_strict_mode.md)
 
 ### PART2 브라우저: 문서, 이벤트, 인터페이스
 
