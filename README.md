@@ -16,6 +16,7 @@
 2. [코드 구조](/part1/0202_code_structure.md)
 3. [엄격 모드](/part1/0203_strict_mode.md)
 4. [변수와 상수](/part1/0204_variables.md)
+5. [자료형](/part1/0205_data_types.md)
 
 ### PART2 브라우저: 문서, 이벤트, 인터페이스
 
