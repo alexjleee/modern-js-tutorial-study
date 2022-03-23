@@ -20,6 +20,7 @@
 6. [alert, prompt, confirm을 이용한 상호작용](/part1/0206_interaction.md)
 7. [형 변환](/part1/0207_type_conversion.md)
 8. [기본 연산자와 수학](/part1/0208_basic_operators.md)
+9. [비교 연산자](/part1/0209_comparison.md)
 
 ### PART2 브라우저: 문서, 이벤트, 인터페이스
 
