@@ -26,6 +26,7 @@
 12. [nullish 병합 연산자 ??](/part1/0212_nullish_coalescing_operator.md)
 13. [while과 for 반복문](/part1/0213_while_for.md)
 14. [switch문](/part1/0214_switch.md)
+15. [함수](/part1/0215_functions.md)
 
 ### PART2 브라우저: 문서, 이벤트, 인터페이스
 
