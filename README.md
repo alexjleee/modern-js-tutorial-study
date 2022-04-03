@@ -28,6 +28,10 @@
 14. [switch문](/part1/0214_switch.md)
 15. [함수](/part1/0215_functions.md)
 
+#### 객체: 기본
+
+1. [객체](/part1/0401_object.md)
+
 ### PART2 브라우저: 문서, 이벤트, 인터페이스
 
 ### PART3 추가 주제
