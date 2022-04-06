@@ -12,6 +12,8 @@
 
 ## 브라우저 환경
 
+![window objects](/images/part2_0101.png)
+
 - `window` : 회상단 루트 객체
 
   - 자바스크립트 코드의 전역 객체
