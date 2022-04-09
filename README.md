@@ -40,6 +40,7 @@
 1. [브라우저 환경과 다양한 명세서](/part2/0101_browser_environment.md)
 2. [DOM 트리](/part2/0102_dom_nodes.md)
 3. [DOM 탐색하기](/part2/0103_dom_navigation.md)
+4. [getElement*, querySelector*로 요소 검색하기](/part2/0104_searching_elements_dom.md)
 
 ### PART3 추가 주제
 
