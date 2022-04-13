@@ -42,6 +42,10 @@
 3. [DOM 탐색하기](/part2/0103_dom_navigation.md)
 4. [getElement*, querySelector*로 요소 검색하기](/part2/0104_searching_elements_dom.md)
 
+#### 이벤트 기초
+
+2. [버블링과 캡처링](/part2/0202_bubbling_and_capturing.md)
+
 ### PART3 추가 주제
 
 ## 참고문헌
