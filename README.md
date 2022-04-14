@@ -45,6 +45,7 @@
 #### 이벤트 기초
 
 2. [버블링과 캡처링](/part2/0202_bubbling_and_capturing.md)
+3. [이벤트 위임](/part2/0203_event_delegation.md)
 
 ### PART3 추가 주제
 
