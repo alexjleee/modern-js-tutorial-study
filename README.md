@@ -32,6 +32,7 @@
 
 1. [객체](/part1/0401_object.md)
 2. [객체 복사](/part1/0402_obejct_copy.md)
+3. [가비지 컬렉션](/part1/0403_garbage_collection.md)
 
 ### PART2 브라우저: 문서, 이벤트, 인터페이스
 
